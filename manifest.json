@@ -1,0 +1,14 @@
+{
+  "name": "GBO Trainer Tool",
+  "short_name": "GBO Trainer",
+  "description": "Gençlerbirliği Opladen – Trainer Tool für Aufstellung, Standards und Spieltag",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e0101",
+  "theme_color": "#c0111f",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
